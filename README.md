@@ -36,7 +36,6 @@
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) [1.0.4+1.20.3] by Minenash
 - [Fadeless](https://modrinth.com/mod/ncKjyGm3) [1.0.1] by UltimateBoomer, DerpDerpling
 - [Gamma Shifter](https://modrinth.com/mod/y3YvmDru) [1.0.4+mc1.20.4] by Aaron McMicking
-- [Advanced XRay (Fabric)](https://www.curseforge.com/projects/444663) [84.0.0] by ErrorMikey
 - [Dynamic Crosshair Compat](https://modrinth.com/mod/EwPIWPJ9) [3.7.2+1.20.2] by Crendgrim
 - [Improved Signs](https://modrinth.com/mod/tEcCNQe7) [1.3.3] by CleverCorvid
 - [Towns and Towers](https://modrinth.com/mod/DjLobEOy) [1.12.1] by William Wythers, Cristelknight999
